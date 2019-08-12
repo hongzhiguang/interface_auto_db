@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../PfosInterfaceAuto/.idea/PfosInterfaceAuto.iml" filepath="$PROJECT_DIR$/../../../PfosInterfaceAuto/.idea/PfosInterfaceAuto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pfos auto/.idea/autoit.iml" filepath="$PROJECT_DIR$/../pfos auto/.idea/autoit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/e2_interface_auto_db.iml" filepath="$PROJECT_DIR$/.idea/e2_interface_auto_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../batch upgrade/.idea/test.iml" filepath="$PROJECT_DIR$/../batch upgrade/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
